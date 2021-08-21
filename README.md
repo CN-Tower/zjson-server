@@ -24,28 +24,3 @@
 - 还有更多的功能、配置、特性等你去发现！
 
 相比其它在线格式化工具，如：bejson.com和json.cn等，转杰森界面更加专业、功能更加实用，绝对是开发和测试的好工具。
-
-![](/mean.png)
-
-### 运行项目
-
-#### 开发启动
-```bash
-npm start
-```
-
-#### 打包发布
-```bash
-npm run build
-npm run update
-```
-
-#### 应用程序
-Windows
-```bash
-npm run package:win
-```
-MacOS
-```bash
-npm run package:mac
-```
