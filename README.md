@@ -7,11 +7,6 @@
 - GitHub: &nbsp;https://github.com/CN-Tower/zjson
 - GitHub: &nbsp;https://github.com/CN-Tower/funclib.js
 
-#### 主页界面
-![](/zjson.png)
-#### 对比界面
-![](/zjson-diff.png)
-
 ### 简单介绍
 
 转杰森是使用MEAN-STACK ( MongoDB + Express + Angular + NodeJS技术栈 ) 开发的一个JSON格式化和编辑工具，功能丰富强大、界面简洁美观，还有很多高级特性：
